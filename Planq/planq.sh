@@ -1,5 +1,5 @@
 #
-# // Copyright (C) 2023 v1.0.4 By AoiNode x ZKSystem
+# // Copyright (C) 2023 v1.0.5 By AoiNode x ZKSystem
 #
 
 echo -e "\033[0;35m"
